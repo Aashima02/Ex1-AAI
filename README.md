@@ -1,4 +1,4 @@
-<H5> Name :Aashima Nazreen A </H5>
+<H5> Name :Aashima Nazreen S </H5>
 <H5>Register No.: 212221240002 </H5>
 <H5> Experiment 1 </H5>
 <H5> DATE: 05.09.24</H5>
